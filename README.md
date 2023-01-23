@@ -1,6 +1,10 @@
 # Access Admin Dashboard - App
 
-## React.js - react-bootstrap - custom css - react-hooks
+## React.js - react-bootstrap - custom css - react-hooks - axios
+
+#### Styling components using react-bootstrap with custom CSS
+
+#### Fetching data with axios
 
 ### Admin dashboard to display agents types & states
 

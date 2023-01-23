@@ -2,7 +2,6 @@ import React from 'react';
 import Agent from '../components/Agent';
 
 const AdminDashboard = ({ agents }) => {
-  console.log(agents);
   // TOTAL AGENTS
   const totalAgents = agents.length;
   // ACTIVE Agents
